@@ -10,6 +10,9 @@ A clone of the arcade game, Frogger
 
 ## Installation Instructions
 
+[You can play straight in your browser by clicking this link.](http://htmlpreview.github.io/?https://github.com/tomastephenson/Udacity-Assignment-2-Matching-Game/blob/master/index.html)
+
+Or to install it on your system to play offline, follow the instructions below:
 * Click 'Clone or Download' in the top right of the screen, and click 'download zip'.
 * Extract the zip file on your computer
 * Click on index.html to play!
