@@ -1,5 +1,5 @@
 # Frogger Game
-A clone of the arcade game, Frogger
+A clone of the arcade game, Frogger.
 
 ## Table of Contents
 
