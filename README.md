@@ -20,6 +20,7 @@ Or to install it on your system to play offline, follow the instructions below:
 ![Image of the Frogger game in action]()
 
 You are controlling the character here:
+<br>
 ![Image of the main character](https://github.com/tomastephenson/frogger-game/blob/master/images/char-boy.png)
 
 * Press **up** to move him up
@@ -30,9 +31,11 @@ You are controlling the character here:
 Get a feel for how he moves in the grassy area, then try and make your way to the water at the top of the screen. But watch out! If any part of you touches the bugs trying to cross the road, you'll die instantly!
 
 You'll look like this if you die, and you will be given another chance to cross the road to the water from the same starting point:
+<br>
 ![Image of the main character when he dies](https://github.com/tomastephenson/frogger-game/blob/master/images/char-boy-death.png)
 
 If you successfully cross the road to the water, your character will look like this. Congratulations! Have another go and see if you can do it again from the same starting point:
+<br>
 ![Image of the main character when he dies](https://github.com/tomastephenson/frogger-game/blob/master/images/char-boy-death.png)
 
 ## Dependencies
