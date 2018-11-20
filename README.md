@@ -9,7 +9,7 @@ A clone of the arcade game, Frogger.
 
 ## Installation Instructions
 
-![You can play straight in your browser by clicking this link.](http://htmlpreview.github.io/?https://github.com/tomastephenson/frogger-game/blob/master/index.html)
+[You can play straight in your browser by clicking this link.](http://htmlpreview.github.io/?https://github.com/tomastephenson/frogger-game/blob/master/index.html)
 
 Or to install it on your system to play offline, follow the instructions below:
 * Click 'Clone or Download' in the top right of the screen, and click 'download zip'.
