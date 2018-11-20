@@ -17,7 +17,7 @@ Or to install it on your system to play offline, follow the instructions below:
 * Click on index.html to play!
 
 ## How To Play
-![Image of the Frogger game in action]()
+![Image of the Frogger game in action](https://github.com/tomastephenson/frogger-game/blob/master/images/game-canvas.png)
 
 You are controlling the character here:
 <br>
@@ -36,7 +36,7 @@ You'll look like this if you die, and you will be given another chance to cross 
 
 If you successfully cross the road to the water, your character will look like this. Congratulations! Have another go and see if you can do it again from the same starting point:
 <br>
-![Image of the main character when he dies](https://github.com/tomastephenson/frogger-game/blob/master/images/char-boy-death.png)
+![Image of the main character when he reaches the water](https://github.com/tomastephenson/frogger-game/blob/master/images/char-boy-victory.png)
 
 ## Dependencies
 There are no external dependencies needed to enjoy this game - all necessary JavaScript and CSS is included in the zipped folder you download, or is linked to if you play on the version hosted by Github.
